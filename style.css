@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+US+Trad+Guides&family=Science+Gothic:wght@100..900&display=swap');
+
+:root{
+    ---cor-de-fundo:#ff0000;
+    ---cor-da-fonte:#05ffff;
+
+}
+
+body{
+    background-color: var(---cor-de-fundo);
+    color:var(---cor-da-fonte);
+    text-align: justify;
+}
